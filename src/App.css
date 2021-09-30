@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #000000;
+  outline: 2px solid rgb(241, 94, 9);
+}
+
+.GO {
+  background-color: red;
+  text-align: center;
+  inline-size: 100%;
+  border-inline-color: rgb(252, 13, 13);
+}
+
+.button {
+  
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(3, 99, 243);
+  text-decoration-style: dotted;
+}
+
+.canvas {
+  position: relative;
+  background-color: rgb(226, 241, 9);
+}
